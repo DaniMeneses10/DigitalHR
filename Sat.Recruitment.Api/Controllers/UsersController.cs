@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Sat.Recruitment.Api.Interfaces;
-using Sat.Recruitment.Api.Models;
+using Sat.Recruitment.Domain.Interfaces;
+using Sat.Recruitment.Domain.Models;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
